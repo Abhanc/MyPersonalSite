@@ -1,0 +1,124 @@
+body{
+    margin:0;
+    font-family:'Merriweather'serif;
+}
+.top-Container{
+    background-image:url("Image/p9mUO.jpg");
+    width:100%;
+    height: 690px;
+}
+.topHeading{
+    color: whitesmoke;
+    position:absolute;
+    font-family: Sacramento, cursive;
+    font-size: larger;
+    left:400px;
+    top: 200px
+    
+    
+    
+}
+.MyPic{
+    position:absolute;
+    right:10px;
+}
+.Middle-Container{
+    text-align:center;
+    text-justify: auto;
+    font-size:x-large;
+    font-family:'Merriweather'serif;
+    
+}
+.AboutImg{
+    margin:auto;
+    width:200px;
+    height:200px;
+}
+.MPara{
+    margin:auto;
+    width:400px;
+
+}
+.SPara{
+    margin:auto;
+    width:400px;
+}
+.Sintro{
+    margin:auto;
+    width:400px;
+}
+.SImg{
+    margin:auto;
+    width: 150px;
+    height:100px;
+    float:left;
+
+}
+.Skill-Row{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2; /* it represent without using units;*/
+    text-align: left;
+}
+
+.Logic-building{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 30px;
+    padding-top:70px;
+    border-radius:5px;
+}
+.HobbiesImg{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+.GuitarImg{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.Logic-building-discription {
+
+}
+.logic-building-div{
+}
+.hobbies-discription{
+    font-size: xx-large;
+}
+
+.Skills{
+    margin:auto;
+    padding: 50px 0 ;
+    width:50%;
+}
+
+.EditorI{
+    width: 40%;
+    float:right;
+    padding-left:30px ;
+    border-radius:5px;
+}
+.map{
+    margin:10px,0;
+}
+
+.bottom-container{
+    background-color: lightgray;
+    padding:20px 0 40px;
+    text-align: center;
+    word-spacing: 1rem;
+
+}
+.copyright{
+    color: white;
+    font-size:1rem;
+    padding:20px 0;
+}
+.Dnone{
+    text-decoration: none;
+}
